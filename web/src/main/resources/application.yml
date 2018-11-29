@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 6666
+    template:
+      exchange: sale-exchange
